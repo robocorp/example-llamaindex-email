@@ -3,7 +3,7 @@
 Build RAG in an hour! This tutorial walks throught he build of a simple RAG agent using [OpenAI](https://openai.com/), [Llamaindex](https://www.llamaindex.ai/) and running it on Robocorp. Here's what it will do:
 
 > Hey I have these questions about these documents. Help me!
-> 
+
 ![emails](https://github.com/tonnitommi/email-chat-docs/assets/40179958/a467d17b-705b-4c85-8b35-a082917817c5)
 
 - Workflow is triggered via emails where body has some questions about the PDF files as attachments. The email triggering is a great feature on Robocorp Control Room, and is available for every Python workflow.
